@@ -1,0 +1,5 @@
+{
+  "name": "Mars Rover Tracker",
+  "description": "An application to visualize the path and current location of Mars rovers like Perseverance and Curiosity on high-resolution satellite imagery from NASA's Mars Trek API.",
+  "requestFramePermissions": []
+}
